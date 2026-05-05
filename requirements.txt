@@ -1,0 +1,15 @@
+# streamlit
+# scikit-learn
+# pandas
+# joblib
+# catboost
+
+
+streamlit==1.32.0
+scikit-learn
+pandas
+numpy
+joblib
+catboost
+lightgbm
+xgboost
